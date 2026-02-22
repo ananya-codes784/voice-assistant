@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual Assistant 🌟🤖
 <h2>Welcome to the Virtual Assistant Project! 🎉 This project is a smart and interactive assistant built with HTML, CSS, and JavaScript. It is designed to make your tasks easier by providing a user-friendly interface and intuitive functionalities. 🚀</h2>
 <h3>Features ✨</h3>
@@ -7,3 +8,6 @@
 <p>Customizable Options 🔧: Tailor the assistant’s functionalities to your needs.</p>
 <h3>📸 Screenshots</h3>
 <img src="projectscreenshot.png" alt="Img"/>
+=======
+
+>>>>>>> 1f69337ecd5ff9f70b496238e4766656195af7e2
